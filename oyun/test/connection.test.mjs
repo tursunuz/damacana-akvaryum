@@ -1,0 +1,3 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {connectionOptions,connectionError} from '../connection-options.mjs';
+test('connecting never requests premium gift-list enrichment',()=>{assert.equal(connectionOptions().enableExtendedGiftInfo,false);assert.equal(connectionOptions().processInitialData,false);assert.equal(connectionOptions().signApiKey,undefined);});
+test('provider errors do not mislead user about the broadcast being offline',()=>{assert.ok(connectionError(Error('This endpoint requires a Business plan')).includes('ücretli'));assert.ok(!connectionError(Error('This endpoint requires a Business plan')).includes('Yayının açık'));assert.ok(connectionError(Error("The requested user isn't online :(")).includes('çevrimdışı'));});
