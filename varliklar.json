@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "lepistes",
+    "file": "baliklar/01-lepistes.png",
+    "width": 549,
+    "height": 350,
+    "direction": "right"
+  },
+  {
+    "id": 2,
+    "name": "neon-tetra",
+    "file": "baliklar/02-neon-tetra.png",
+    "width": 535,
+    "height": 261,
+    "direction": "right"
+  },
+  {
+    "id": 3,
+    "name": "japon-baligi",
+    "file": "baliklar/03-japon-baligi.png",
+    "width": 557,
+    "height": 426,
+    "direction": "right"
+  },
+  {
+    "id": 4,
+    "name": "palyaco-baligi",
+    "file": "baliklar/04-palyaco-baligi.png",
+    "width": 536,
+    "height": 352,
+    "direction": "right"
+  },
+  {
+    "id": 5,
+    "name": "cerrah-baligi",
+    "file": "baliklar/05-cerrah-baligi.png",
+    "width": 564,
+    "height": 380,
+    "direction": "right"
+  },
+  {
+    "id": 6,
+    "name": "melek-baligi",
+    "file": "baliklar/06-melek-baligi.png",
+    "width": 509,
+    "height": 554,
+    "direction": "right"
+  },
+  {
+    "id": 7,
+    "name": "balon-baligi",
+    "file": "baliklar/07-balon-baligi.png",
+    "width": 550,
+    "height": 398,
+    "direction": "right"
+  },
+  {
+    "id": 8,
+    "name": "denizati",
+    "file": "baliklar/08-denizati.png",
+    "width": 331,
+    "height": 560,
+    "direction": "right"
+  },
+  {
+    "id": 9,
+    "name": "aslan-baligi",
+    "file": "baliklar/09-aslan-baligi.png",
+    "width": 582,
+    "height": 519,
+    "direction": "right"
+  },
+  {
+    "id": 10,
+    "name": "deniz-kaplumbagasi",
+    "file": "baliklar/10-deniz-kaplumbagasi.png",
+    "width": 580,
+    "height": 395,
+    "direction": "right"
+  },
+  {
+    "id": 11,
+    "name": "ahtapot",
+    "file": "baliklar/11-ahtapot.png",
+    "width": 572,
+    "height": 553,
+    "direction": "right"
+  },
+  {
+    "id": 12,
+    "name": "vatoz",
+    "file": "baliklar/12-vatoz.png",
+    "width": 559,
+    "height": 445,
+    "direction": "right"
+  },
+  {
+    "id": 13,
+    "name": "kopekbaligi",
+    "file": "baliklar/13-kopekbaligi.png",
+    "width": 605,
+    "height": 365,
+    "direction": "right"
+  },
+  {
+    "id": 14,
+    "name": "balina",
+    "file": "baliklar/14-balina.png",
+    "width": 605,
+    "height": 360,
+    "direction": "right"
+  },
+  {
+    "id": 15,
+    "name": "deniz-ejderi",
+    "file": "baliklar/15-deniz-ejderi.png",
+    "width": 532,
+    "height": 585,
+    "direction": "right"
+  }
+]

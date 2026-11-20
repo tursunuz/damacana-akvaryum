@@ -1,0 +1,6 @@
+/oyun/data/
+/oyun/runtime/
+node_modules/
+.env
+.env.*
+*.log
